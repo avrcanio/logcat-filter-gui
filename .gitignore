@@ -1,0 +1,22 @@
+# Ignore Gradle build and cache directories
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+
+# Output and temp files
+out/
+*.log
+*.class
+*.jar
+*.apk
+*.tmp
+*.swp
+
+# macOS
+.DS_Store
+
+# Android/Java
+local.properties
